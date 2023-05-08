@@ -1,6 +1,6 @@
 # Medium Post Summarizer
 
-[![GitHub license](https://img.shields.io/github/license/ritikjain51/medium-post-summarizer)](https://github.com/ritikjain51/medium-post-summarizer/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/ritikjain51/medium-post-summarizer)](https://github.com/ritikjain51/medium-post-summarizer/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/ritikjain51/medium-post-summarizer)](https://github.com/ritikjain51/medium-post-summarizer/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ritikjain51/medium-post-summarizer)](https://github.com/ritikjain51/medium-post-summarizer/issues)
 
@@ -31,4 +31,4 @@ Contributions are welcome! Please feel free to open a pull request or issue for 
 
 ## License
 
-This project is licensed under the [MIT license](https://github.com/ritikjain51/medium-post-summarizer/LICENSE).
+This project is licensed under the [MIT license](https://github.com/ritikjain51/medium-post-summarizer/blob/master/LICENSE).
